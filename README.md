@@ -6,7 +6,7 @@
 ---
 
 ### **🚀 Попробовать бота**
-[@tg_Sales678_bot_](https://t.me/tg_Sales678_bot)
+[@Sales678_bot_](https://t.me/tg_Sales678_bot)
 
 ---
 
