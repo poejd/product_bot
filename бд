@@ -1,11 +1,9 @@
 import telebot
 from telebot import types
 
-# Замените "YOUR_BOT_TOKEN" на токен вашего бота
 TOKEN = "8011835615:AAFaNDMsdwGDTjxrmjJd9zBARTLndbX5PBA"
 bot = telebot.TeleBot(TOKEN)
 
-# База данных товаров (замените на реальную базу данных)
 products = {
     "холодильник1": {"name": "Холодильник Samsung RL55", "description": "Отличный холодильник с No Frost", "price": 35000, "image": "url_изображения_холодильника1"},
     "стиралка1": {"name": "Стиральная машина Bosch Serie 6", "description": "Надежная стиральная машина с инверторным двигателем", "price": 28000, "image": "url_изображения_стиралки1"},
